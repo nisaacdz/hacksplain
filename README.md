@@ -1,6 +1,6 @@
 # Hacksplain
 
-## ascii_v.cpp
+## ascii.cpp
 - I began with a utility function `print_ascii` which prints the ascii value of each character in the string argument.
 ```
 void print_ascii(string& input) {
